@@ -55,11 +55,6 @@ Top Recommendations:
 ## Salary Expectation
 - Monthly salary expectation: **[$2,100 – $2,400]**
 
-## Short Video Demo
-A demonstration video showcasing how to run the recommendation system, use a sample query, and view the results has been provided.
-
-**Demo Link:** [Insert your video link here]  
-
 ## Dependencies
 - `pandas`
 - `numpy`
